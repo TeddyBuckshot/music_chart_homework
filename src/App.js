@@ -1,8 +1,9 @@
 import './App.css';
+import MusicContainer from './containers/MusicContainer.js'
 
 function App() {
   return (
-    <p>Hello</p>
+    <MusicContainer />
   );
 }
 
